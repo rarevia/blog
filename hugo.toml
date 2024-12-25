@@ -1,0 +1,4 @@
+baseURL = 'https://rarevia.github.io/blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+themes='hugo-flex'
